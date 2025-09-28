@@ -1,6 +1,6 @@
 # Network Growth Model
 
-This project provides a **real-time simulation and visualization of growing networks** using a customizable attachment kernel and target degree distribution. The GUI is built with Tkinter and uses Matplotlib for interactive network and statistics plots.
+This project provides a **real-time simulation and visualization of growing networks** using a customizable attachment kernel and a known **target degree distribution**. The GUI is built with Tkinter and uses Matplotlib for interactive network and statistics plots.
 
 ## Features
 
