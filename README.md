@@ -62,8 +62,4 @@ pip install matplotlib networkx numpy
 
 ## Sample Screenshots
 
-Following are the screenshots of simulation of network model for 1000 nodes.
-
-![Power_law_simulation_when_28_out_of_1000_nodes_have_arrived](images/Screenshot 2025-09-28 194152.png)
-
-![Power_law_simulation_when_all_1000_nodes_have_arrived](images/Screenshot 2025-09-28 194534.png)
+- The sample screenshots can be found in the images directory 
